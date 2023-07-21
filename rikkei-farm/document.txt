@@ -1,0 +1,6 @@
+status code
+200: Thành công (Cập nhật, Xóa, Lấy dữ liệu)
+201: Thêm mới thành công
+400: Bad request (Dữ liệu người dùng nhập vào không hợp lệ => Để trống, sai định dạng...)
+404: Not found (Không tìm thấy data hoặc url)
+500: Lỗi máy chủ
